@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.vrclimb-14469661.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/Jacob/Documents/Unreal Projects/VRClimb/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "VRClimb-14469661 [UE Editor]"
+				}
+			}
+		}
+	]
+}

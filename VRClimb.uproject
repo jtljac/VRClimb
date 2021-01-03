@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.25",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VRClimb",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"DatVRLocomotion"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "DatVRLocomotion",
+			"Enabled": true
+		}
+	]
+}
